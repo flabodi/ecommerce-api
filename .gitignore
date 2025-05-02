@@ -129,3 +129,10 @@ dist
 build
 .strapi-updater.json
 .strapi-cloud.json
+
+# Strapi SQLite database
+/data/data.db
+*.db
+
+# Strapi cache (se compare)
+.cache/

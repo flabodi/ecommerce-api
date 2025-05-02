@@ -1,0 +1,15 @@
+{
+  "collectionName": "components_drink_info_generalis",
+  "info": {
+    "displayName": "info-generali"
+  },
+  "options": {},
+  "attributes": {
+    "grado_alcolico": {
+      "type": "integer"
+    },
+    "volume_ml": {
+      "type": "integer"
+    }
+  }
+}

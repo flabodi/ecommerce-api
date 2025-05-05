@@ -1,4 +1,5 @@
 // config/middlewares.js
+
 export default [
   "strapi::logger",
   "strapi::errors",
@@ -7,8 +8,8 @@ export default [
     name: "strapi::cors",
     config: {
       origin: [
-        "http://localhost:5173",  // sviluppo
-        // in futuro: "https://tuo-frontend.vercel.app"
+        "http://localhost:5173",          // sviluppo in locale
+        "https://spiritinobili.vercel.app" // il tuo dominio di produzione
       ],
       methods: ["GET", "POST", "PUT", "PATCH", "DELETE", "OPTIONS"],
       headers: ["Content-Type", "Authorization"],

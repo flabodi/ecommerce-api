@@ -413,14 +413,14 @@ export interface ApiProductProduct extends Struct.CollectionTypeSchema {
     draftAndPublish: true;
   };
   attributes: {
-    cover: Schema.Attribute.String;
+    cover: Schema.Attribute.Text;
     createdAt: Schema.Attribute.DateTime;
     createdBy: Schema.Attribute.Relation<'oneToOne', 'admin::user'> &
       Schema.Attribute.Private;
     description: Schema.Attribute.Blocks;
     feautured: Schema.Attribute.Boolean;
-    gallery_product1: Schema.Attribute.String;
-    info: Schema.Attribute.String;
+    gallery_product1: Schema.Attribute.Text;
+    info: Schema.Attribute.Text;
     ingedients: Schema.Attribute.String;
     ingredients: Schema.Attribute.Component<'product.ingredients', true>;
     locale: Schema.Attribute.String & Schema.Attribute.Private;
@@ -434,7 +434,7 @@ export interface ApiProductProduct extends Struct.CollectionTypeSchema {
     product: Schema.Attribute.Relation<'manyToOne', 'api::categorie.categorie'>;
     publishedAt: Schema.Attribute.DateTime;
     slug: Schema.Attribute.UID<'name'>;
-    story: Schema.Attribute.String;
+    story: Schema.Attribute.Text;
     tips: Schema.Attribute.Text;
     updatedAt: Schema.Attribute.DateTime;
     updatedBy: Schema.Attribute.Relation<'oneToOne', 'admin::user'> &

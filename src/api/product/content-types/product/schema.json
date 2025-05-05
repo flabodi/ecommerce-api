@@ -46,16 +46,16 @@
       "component": "product.ingredients"
     },
     "cover": {
-      "type": "string"
+      "type": "text"
     },
     "info": {
-      "type": "string"
+      "type": "text"
     },
     "story": {
-      "type": "string"
+      "type": "text"
     },
     "gallery_product1": {
-      "type": "string"
+      "type": "text"
     }
   }
 }

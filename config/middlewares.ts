@@ -1,3 +1,4 @@
+// config/middlewares.js
 export default [
   "strapi::logger",
   "strapi::errors",
@@ -5,10 +6,13 @@ export default [
   {
     name: "strapi::cors",
     config: {
-      enabled: true,
-      origin: ["http://localhost:5173"], // Consente solo al tuo dominio di accedere
-      methods: ["GET", "POST", "PUT", "DELETE"],
+      origin: [
+        "http://localhost:5173",  // sviluppo
+        // in futuro: "https://tuo-frontend.vercel.app"
+      ],
+      methods: ["GET", "POST", "PUT", "PATCH", "DELETE", "OPTIONS"],
       headers: ["Content-Type", "Authorization"],
+      credentials: true,
     },
   },
   "strapi::poweredBy",
@@ -16,5 +20,5 @@ export default [
   "strapi::body",
   "strapi::session",
   "strapi::favicon",
-  "strapi::public", // Questo middleware è per rendere pubblici i file statici (come le immagini)
+  "strapi::public",
 ];

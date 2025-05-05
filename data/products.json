@@ -1,0 +1,244 @@
+{
+    "data": [
+        {
+            "id": 87,
+            "documentId": "yitekp5sm0719s96jaga1vyx",
+            "name": "PALOMA",
+            "slug": "paloma",
+            "description": [
+                {
+                    "type": "paragraph",
+                    "children": [
+                        {
+                            "type": "text",
+                            "text": "Il Paloma è un cocktail rinfrescante di origine messicana, a base di tequila e succo di pompelmo. Viene solitamente servito con ghiaccio in un bicchiere alto, completato con soda al pompelmo (o succo di pompelmo fresco e soda), lime e un bordo di sale. È noto per il suo gusto agrumato, leggermente amaro e dissetante, perfetto per le giornate calde."
+                        }
+                    ]
+                }
+            ],
+            "price": 6,
+            "feautured": false,
+            "createdAt": "2025-04-10T09:27:00.564Z",
+            "updatedAt": "2025-04-22T13:47:21.169Z",
+            "publishedAt": "2025-04-22T13:47:21.187Z",
+            "ingedients": "tequila , lime , agave , pompelmo",
+            "tips": "Consigliamo di gustare il Paloma con un tocco di sale sul bordo del bicchiere. Per un'esperienza ancora più rinfrescante, conservalo in frigo: più freddo è, più buono sarà. Servilo poi versandolo direttamente sul ghiaccio per un effetto ancora più dissetante.",
+            "cover": "https://i.postimg.cc/vmMGTP9T/paloma.png",
+            "info": "355 ml / 11%",
+            "story": "Il Paloma è un cocktail rinfrescante di origine messicana, a base di tequila e succo di pompelmo. Viene solitamente servito con ghiaccio in un bicchiere alto, completato con soda al pompelmo (o succo di pompelmo fresco e soda), lime e un bordo di sale. È noto per il suo gusto agrumato, leggermente amaro e dissetante, perfetto per le giornate calde.",
+            "gallery_product1": "https://i.postimg.cc/630zVJjq/orizzontale-2-1.png"
+        },
+        {
+            "id": 88,
+            "documentId": "rx4z98puq54ls7c7cl7ij752",
+            "name": "MAI TAI",
+            "slug": "mai-tai",
+            "description": [
+                {
+                    "type": "paragraph",
+                    "children": [
+                        {
+                            "type": "text",
+                            "text": "Il Mai Tai è un cocktail esotico e vibrante, nato nelle isole del Pacifico, noto per il suo mix complesso di rum, lime fresco, orgeat (sciroppo di mandorla) e un tocco di Grand Marnier o Curacao. Questo drink bilancia perfettamente i sapori agrumati, dolci e nutty, creando una bevanda perfetta per le giornate calde o come aperitivo festoso."
+                        }
+                    ]
+                }
+            ],
+            "price": 6,
+            "feautured": true,
+            "createdAt": "2025-04-10T09:40:22.693Z",
+            "updatedAt": "2025-04-22T13:47:55.060Z",
+            "publishedAt": "2025-04-22T13:47:55.066Z",
+            "ingedients": "Rum bianco,  Rum scuro , lime , sciroppo di mandorla , Orange Curacao",
+            "tips": "Consigliamo di preparare il Mai Tai direttamente in un bicchiere con ghiaccio tritato, senza shakerarlo troppo per mantenere il giusto equilibrio tra i sapori. Per una guarnizione autentica, aggiungi una fetta di lime e una ciliegina al maraschino. Servilo con una cannuccia per un tocco di stile!",
+            "cover": "https://i.postimg.cc/QNWC4frn/2.png",
+            "info": "355 ml / 11%",
+            "story": "Il Mai Tai è un cocktail esotico e vibrante, nato nelle isole del Pacifico, noto per il suo mix complesso di rum, lime fresco, orgeat (sciroppo di mandorla) e un tocco di Grand Marnier o Curacao. Questo drink bilancia perfettamente i sapori agrumati, dolci e nutty, creando una bevanda perfetta per le giornate calde o come aperitivo festoso.",
+            "gallery_product1": "https://i.postimg.cc/FKwTFVfF/Maitai-ambientata-4.png"
+        },
+        {
+            "id": 89,
+            "documentId": "v3x774febpt1gvh5xgcxr5ge",
+            "name": "NEGRONI",
+            "slug": "negroni",
+            "description": [
+                {
+                    "type": "paragraph",
+                    "children": [
+                        {
+                            "type": "text",
+                            "text": "Il Negroni unisce magistralmente gin, Campari e vermouth rosso dolce in parti uguali, dando vita a un equilibrio perfetto tra amaro e dolce."
+                        }
+                    ]
+                },
+                {
+                    "type": "paragraph",
+                    "children": [
+                        {
+                            "type": "text",
+                            "text": "Al gusto si percepisce subito il vibrante amaro del Campari, mitigato dalle note erbacee del gin e dalla morbidezza del vermouth."
+                        }
+                    ]
+                },
+                {
+                    "type": "paragraph",
+                    "children": [
+                        {
+                            "type": "text",
+                            "text": "Servito rigorosamente in un bicchiere old fashioned con ghiaccio a cubetti, sprigiona profumi intensi di arancia grazie alla scorza che ne corona il servizio."
+                        }
+                    ]
+                },
+                {
+                    "type": "paragraph",
+                    "children": [
+                        {
+                            "type": "text",
+                            "text": "La sua struttura corposa e il finale leggermente speziato lo rendono ideale come aperitivo, capace di stimolare appetito e conversazione."
+                        }
+                    ]
+                },
+                {
+                    "type": "paragraph",
+                    "children": [
+                        {
+                            "type": "text",
+                            "text": "Nato a Firenze negli anni ’20, il Negroni è diventato un’icona globale, simbolo di raffinatezza e gusto intramontabile."
+                        }
+                    ]
+                }
+            ],
+            "price": 5,
+            "feautured": true,
+            "createdAt": "2025-04-18T08:53:19.218Z",
+            "updatedAt": "2025-04-22T13:48:24.751Z",
+            "publishedAt": "2025-04-22T13:48:24.766Z",
+            "ingedients": "Gin , Vermouth rosso , Bitter",
+            "tips": null,
+            "cover": "https://i.postimg.cc/bwvjMvtN/3.png",
+            "info": "355 ml / 11%",
+            "story": "Il Negroni unisce magistralmente gin, Campari e vermouth rosso dolce in parti uguali, dando vita a un equilibrio perfetto tra amaro e dolce.   Drag Al gusto si percepisce subito il vibrante amaro del Campari, mitigato dalle note erbacee del gin e dalla morbidezza del vermouth.   Drag Servito rigorosamente in un bicchiere old fashioned con ghiaccio a cubetti, sprigiona profumi intensi di arancia grazie alla scorza che ne corona il servizio.   Drag La sua struttura corposa e il finale leggermente speziato lo rendono ideale come aperitivo, capace di stimolare appetito e conversazione.   Drag Nato a Firenze negli anni ’20, il Negroni è diventato un’icona globale, simbolo di raffinatezza e gusto intramontabile.",
+            "gallery_product1": "https://i.postimg.cc/mr7HMYXg/negroni-ambientata-1.png"
+        },
+        {
+            "id": 90,
+            "documentId": "ceuq3t47e4iz44ccbq408emy",
+            "name": "DAIQUIRI",
+            "slug": "daiquiri",
+            "description": [
+                {
+                    "type": "paragraph",
+                    "children": [
+                        {
+                            "type": "text",
+                            "text": "Il Daiquiri è un cocktail classico e sofisticato, a base di rum bianco, succo di lime fresco e zucchero. È un drink semplice ma raffinato, perfetto come aperitivo grazie al suo equilibrio tra dolcezza e acidità. La sua origine risale a Cuba, dove è diventato un simbolo della cultura del cocktail."
+                        }
+                    ]
+                }
+            ],
+            "price": 5,
+            "feautured": true,
+            "createdAt": "2025-04-10T09:35:41.678Z",
+            "updatedAt": "2025-04-22T13:48:53.488Z",
+            "publishedAt": "2025-04-22T13:48:53.507Z",
+            "ingedients": "Rum , Zucchero , Lime",
+            "tips": "Consigliamo di gustare il Daiquiri ben freddo, conservandolo in frigo per un'esperienza ancora più rinfrescante. Poiché il drink arriva già diluito, sconsigliamo vivamente di shakerarlo, ma suggeriamo di agitarlo leggermente per migliorarne la texture e ottenere un equilibrio perfetto tra i suoi ingredienti",
+            "cover": "https://i.postimg.cc/xTvCYq8v/1.png",
+            "info": "355 ml / 11%",
+            "story": "Il Daiquiri è un cocktail classico e sofisticato, a base di rum bianco, succo di lime fresco e zucchero. È un drink semplice ma raffinato, perfetto come aperitivo grazie al suo equilibrio tra dolcezza e acidità. La sua origine risale a Cuba, dove è diventato un simbolo della cultura del cocktail.",
+            "gallery_product1": "https://i.postimg.cc/630zVJjq/orizzontale-2-1.png"
+        },
+        {
+            "id": 91,
+            "documentId": "kpvl02ukc4frpn286pzh606b",
+            "name": "MARTINI COCKTAIL",
+            "slug": "martini-cocktail",
+            "description": [
+                {
+                    "type": "paragraph",
+                    "children": [
+                        {
+                            "type": "text",
+                            "text": "Il Martini è un cocktail elegante e senza tempo, simbolo di raffinatezza. La sua ricetta classica prevede gin e vermouth dry, serviti in un bicchiere da cocktail ben freddo."
+                        }
+                    ]
+                }
+            ],
+            "price": 6,
+            "feautured": true,
+            "createdAt": "2025-04-10T09:44:07.233Z",
+            "updatedAt": "2025-04-22T13:49:16.232Z",
+            "publishedAt": "2025-04-22T13:49:16.244Z",
+            "ingedients": "Gin , Vermouth extra dry",
+            "tips": " Poiché il cocktail arriva già diluito, conserva il Martini in congelatore per mantenerlo ben fresco, uno dei segreti di questo drink e proprio la temperatura. La garnish è molto importante: scegli tra una scorza di limone per un tocco di freschezza o un'oliva per un sapore più intenso. Se preferisci un Martini più secco, riduci la quantità di vermouth.",
+            "cover": "https://i.postimg.cc/KjXGhyyp/4.png",
+            "info": "355 ml / 11%",
+            "story": "Il Martini è un cocktail elegante e senza tempo, simbolo di raffinatezza. La sua ricetta classica prevede gin e vermouth dry, serviti in un bicchiere da cocktail ben freddo.",
+            "gallery_product1": "https://i.postimg.cc/X4W2L2gv/martin9-ambientata-3.png"
+        },
+        {
+            "id": 93,
+            "documentId": "gwqegb75oquujgbycu3tyaur",
+            "name": "GIMLET",
+            "slug": "gimlet",
+            "description": [
+                {
+                    "type": "paragraph",
+                    "children": [
+                        {
+                            "type": "text",
+                            "text": "Il Gimlet è un cocktail elegante e asciutto, nato presumibilmente nella Royal Navy britannica agli inizi del Novecento come rimedio per prevenire lo scorbuto: all’epoca infatti si mescolava il gin con la lime cordial, uno sciroppo di lime zuccherato, perché distribuisse più facilmente la vitamina C e fosse più gradevole al palato degli uomini di mare. Al sorso si distingue un gusto deciso e vibrante, dove la freschezza agrumata del lime si unisce alle note botaniche e floreali del gin, donando un equilibrio perfetto tra acidità e secchezza, con un finale pulito e leggermente speziato"
+                        }
+                    ]
+                }
+            ],
+            "price": 6,
+            "feautured": true,
+            "createdAt": "2025-04-18T08:45:46.246Z",
+            "updatedAt": "2025-04-22T14:27:05.277Z",
+            "publishedAt": "2025-04-22T14:27:05.295Z",
+            "ingedients": "60 ml GIN   , 20 ml LIME CORDIAL  , 10ml SIMPLE SYTUP",
+            "tips": null,
+            "cover": "https://i.postimg.cc/25cyJJ6g/5.png",
+            "info": "355 ml / 11%",
+            "story": "Il Gimlet è un cocktail elegante e asciutto, nato presumibilmente nella Royal Navy britannica agli inizi del Novecento come rimedio per prevenire lo scorbuto: all’epoca infatti si mescolava il gin con la lime cordial, uno sciroppo di lime zuccherato, perché distribuisse più facilmente la vitamina C e fosse più gradevole al palato degli uomini di mare. Al sorso si distingue un gusto deciso e vibrante, dove la freschezza agrumata del lime si unisce alle note botaniche e floreali del gin, donando un equilibrio perfetto tra acidità e secchezza, con un finale pulito e leggermente speziato",
+            "gallery_product1": "https://i.postimg.cc/g2N5phqr/Gimlet-ambientata-2.png"
+        },
+        {
+            "id": 94,
+            "documentId": "qchx392b9rj3w93ky52oyn7j",
+            "name": "AMERICANO",
+            "slug": "americano",
+            "description": [
+                {
+                    "type": "paragraph",
+                    "children": [
+                        {
+                            "type": "text",
+                            "text": "L'Americano è un cocktail classico e sofisticato, che combina vermouth rosso e Campari, creando un equilibrio perfetto tra dolcezza e amaro. La sua storia risale agli anni '60 ed è noto per il suo gusto rinfrescante e aromatico, ideale come aperitivo grazie alla sua leggera complessità e al suo sapore unico."
+                        }
+                    ]
+                }
+            ],
+            "price": 6,
+            "feautured": false,
+            "createdAt": "2025-04-10T09:30:22.922Z",
+            "updatedAt": "2025-04-22T14:28:37.065Z",
+            "publishedAt": "2025-04-22T14:28:37.083Z",
+            "ingedients": "30 ml BITTER ,  30 ml VERMOUTH , 30 ml SODA",
+            "tips": "Consigliamo di gustare l'Americano servito con ghiaccio in un bicchiere old-fashioned. Per un tocco in più, guarniscilo con una fetta d'arancia o una scorza di limone. Il suo sapore aromatico e bilanciato lo rende ideale come aperitivo per ogni occasione.",
+            "cover": "https://i.postimg.cc/xC5vhFGz/Chat-GPT-Image-16-apr-2025-13-14-14.png",
+            "info": "355 ml / 11%",
+            "story": "L'Americano è un cocktail classico e sofisticato, che combina vermouth rosso e Campari, creando un equilibrio perfetto tra dolcezza e amaro. La sua storia risale agli anni '60 ed è noto per il suo gusto rinfrescante e aromatico, ideale come aperitivo grazie alla sua leggera complessità e al suo sapore unico.",
+            "gallery_product1": "https://i.postimg.cc/630zVJjq/orizzontale-2-1.png"
+        }
+    ],
+    "meta": {
+        "pagination": {
+            "page": 1,
+            "pageSize": 100,
+            "pageCount": 1,
+            "total": 7
+        }
+    }
+}
